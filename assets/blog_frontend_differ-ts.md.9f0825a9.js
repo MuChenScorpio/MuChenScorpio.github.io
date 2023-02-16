@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.f06f7e70.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/frontend/differ-ts.md"}'),o={name:"blog/frontend/differ-ts.md"};function a(n,s,c,f,d,i){return r(),t("div")}const l=e(o,[["render",a]]);export{_ as __pageData,l as default};

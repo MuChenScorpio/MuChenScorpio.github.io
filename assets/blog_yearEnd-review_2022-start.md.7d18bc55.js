@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.f06f7e70.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/yearEnd-review/2022-start.md"}'),a={name:"blog/yearEnd-review/2022-start.md"};function o(s,n,c,_,d,i){return r(),t("div")}const m=e(a,[["render",o]]);export{l as __pageData,m as default};

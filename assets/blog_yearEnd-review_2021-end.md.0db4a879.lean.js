@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.f06f7e70.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/yearEnd-review/2021-end.md"}'),a={name:"blog/yearEnd-review/2021-end.md"};function n(o,s,c,d,_,i){return r(),t("div")}const m=e(a,[["render",n]]);export{l as __pageData,m as default};

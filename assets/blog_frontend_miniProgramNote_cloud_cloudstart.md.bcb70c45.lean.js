@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e}from"./app.f06f7e70.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/frontend/miniProgramNote/cloud/cloudstart.md"}'),r={name:"blog/frontend/miniProgramNote/cloud/cloudstart.md"};function a(n,c,s,d,i,l){return e(),o("div")}const _=t(r,[["render",a]]);export{p as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as e}from"./app.f06f7e70.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/frontend/miniProgramNote/funs/position.md"}'),n={name:"blog/frontend/miniProgramNote/funs/position.md"};function r(a,s,i,c,p,m){return e(),t("div")}const _=o(n,[["render",r]]);export{f as __pageData,_ as default};
